@@ -340,3 +340,8 @@ body {
     initializeAlert();
 })();
 ```
+
+## Contribution
+
+### Developed By  
+This HTML, CSS, and JavaScript file was modularized, documented, and optimized by **Sahil Verma** in collaboration with **ChatGPT**, gaining valuable experience and insights into industry standards to ensure clarity and maintainability for developers.
