@@ -51,7 +51,7 @@
     const startAutoClose = () => {
         resetTimeBar();
         timeBar.style.transition = `width ${remainingTime}ms linear`;
-timeBar.offSetHeight;
+timeBar.offsetHeight;
         timeBar.style.width = '0%';
 
         timeBarStartTime = Date.now();
